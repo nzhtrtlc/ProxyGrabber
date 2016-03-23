@@ -1,0 +1,10 @@
+c:\users\neziht\documents\visual studio 2013\Projects\proxy shit\proxy shit\bin\Debug\proxy shit.exe.config
+c:\users\neziht\documents\visual studio 2013\Projects\proxy shit\proxy shit\bin\Debug\proxy shit.exe
+c:\users\neziht\documents\visual studio 2013\Projects\proxy shit\proxy shit\bin\Debug\proxy shit.pdb
+c:\users\neziht\documents\visual studio 2013\Projects\proxy shit\proxy shit\obj\Debug\proxy shit.csprojResolveAssemblyReference.cache
+c:\users\neziht\documents\visual studio 2013\Projects\proxy shit\proxy shit\obj\Debug\proxy_shit.Form1.resources
+c:\users\neziht\documents\visual studio 2013\Projects\proxy shit\proxy shit\obj\Debug\proxy_shit.Properties.Resources.resources
+c:\users\neziht\documents\visual studio 2013\Projects\proxy shit\proxy shit\obj\Debug\proxy shit.csproj.GenerateResource.Cache
+c:\users\neziht\documents\visual studio 2013\Projects\proxy shit\proxy shit\obj\Debug\proxy shit.exe
+c:\users\neziht\documents\visual studio 2013\Projects\proxy shit\proxy shit\obj\Debug\proxy shit.pdb
+C:\Users\Neziht\Documents\Visual Studio 2013\Projects\proxy shit\proxy shit\bin\Debug\HtmlAgilityPack.dll
